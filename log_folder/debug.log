@@ -1,0 +1,144 @@
+2016-07-10 20:11:07 DEBUG JavaLoggerDemo:41 - This is a Debug
+2016-07-10 20:11:07 INFO  JavaLoggerDemo:42 - This is an Info
+2016-07-10 20:11:07 WARN  JavaLoggerDemo:43 - This is a Warn
+2016-07-10 20:11:07 ERROR JavaLoggerDemo:44 - This is an Error
+2016-07-10 20:11:07 FATAL JavaLoggerDemo:45 - This is a Fatal
+2016-07-10 20:11:07 ERROR JavaLoggerDemo:59 - Error
+java.lang.ArithmeticException: / by zero
+	at javaloggerdemo.JavaLoggerDemo.logException(JavaLoggerDemo.java:57)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:33)
+2016-07-10 20:11:07 ERROR JavaLoggerDemo:75 - File Not Found
+java.io.FileNotFoundException: input1.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at javaloggerdemo.JavaLoggerDemo.logFileError(JavaLoggerDemo.java:66)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:35)
+2016-07-10 20:12:08 DEBUG JavaLoggerDemo:41 - This is a Debug
+2016-07-10 20:12:08 INFO  JavaLoggerDemo:42 - This is an Info
+2016-07-10 20:12:08 WARN  JavaLoggerDemo:43 - This is a Warn
+2016-07-10 20:12:08 ERROR JavaLoggerDemo:44 - This is an Error
+2016-07-10 20:12:08 FATAL JavaLoggerDemo:45 - This is a Fatal
+2016-07-10 20:12:47 DEBUG JavaLoggerDemo:41 - This is a Debug
+2016-07-10 20:12:48 INFO  JavaLoggerDemo:42 - This is an Info
+2016-07-10 20:12:48 WARN  JavaLoggerDemo:43 - This is a Warn
+2016-07-10 20:12:48 ERROR JavaLoggerDemo:44 - This is an Error
+2016-07-10 20:12:48 FATAL JavaLoggerDemo:45 - This is a Fatal
+2016-07-10 20:16:08 DEBUG JavaLoggerDemo:41 - This is a Debug
+2016-07-10 20:16:08 INFO  JavaLoggerDemo:42 - This is an Info
+2016-07-10 20:16:08 WARN  JavaLoggerDemo:43 - This is a Warn
+2016-07-10 20:16:08 ERROR JavaLoggerDemo:44 - This is an Error
+2016-07-10 20:16:08 FATAL JavaLoggerDemo:45 - This is a Fatal
+2016-07-10 20:17:12 DEBUG JavaLoggerDemo:41 - This is a Debug
+2016-07-10 20:17:12 INFO  JavaLoggerDemo:42 - This is an Info
+2016-07-10 20:17:12 WARN  JavaLoggerDemo:43 - This is a Warn
+2016-07-10 20:17:12 ERROR JavaLoggerDemo:44 - This is an Error
+2016-07-10 20:17:12 FATAL JavaLoggerDemo:45 - This is a Fatal
+2016-07-10 20:17:26 DEBUG JavaLoggerDemo:41 - This is a Debug
+2016-07-10 20:17:26 INFO  JavaLoggerDemo:42 - This is an Info
+2016-07-10 20:17:26 WARN  JavaLoggerDemo:43 - This is a Warn
+2016-07-10 20:17:26 ERROR JavaLoggerDemo:44 - This is an Error
+2016-07-10 20:17:26 FATAL JavaLoggerDemo:45 - This is a Fatal
+2016-07-10 20:25:23 DEBUG JavaLoggerDemo:84 - Debug
+2016-07-10 20:25:23 INFO  JavaLoggerDemo:85 - Info
+2016-07-10 20:27:41 DEBUG JavaLoggerDemo:42 - This is a Debug
+2016-07-10 20:27:42 INFO  JavaLoggerDemo:43 - This is an Info
+2016-07-10 20:27:42 WARN  JavaLoggerDemo:44 - This is a Warn
+2016-07-10 20:27:42 ERROR JavaLoggerDemo:45 - This is an Error
+2016-07-10 20:27:42 FATAL JavaLoggerDemo:46 - This is a Fatal
+2016-07-10 20:27:59 ERROR JavaLoggerDemo:60 - Error
+java.lang.ArithmeticException: / by zero
+	at javaloggerdemo.JavaLoggerDemo.logException(JavaLoggerDemo.java:58)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:33)
+2016-07-10 20:28:19 ERROR JavaLoggerDemo:76 - File Not Found
+java.io.FileNotFoundException: input1.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at javaloggerdemo.JavaLoggerDemo.logFileError(JavaLoggerDemo.java:67)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:35)
+2016-07-10 20:28:51 DEBUG JavaLoggerDemo:42 - This is a Debug
+2016-07-10 20:28:51 INFO  JavaLoggerDemo:43 - This is an Info
+2016-07-10 20:28:51 WARN  JavaLoggerDemo:44 - This is a Warn
+2016-07-10 20:28:51 ERROR JavaLoggerDemo:45 - This is an Error
+2016-07-10 20:28:51 FATAL JavaLoggerDemo:46 - This is a Fatal
+2016-07-10 20:28:52 ERROR JavaLoggerDemo:60 - Error
+java.lang.ArithmeticException: / by zero
+	at javaloggerdemo.JavaLoggerDemo.logException(JavaLoggerDemo.java:58)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:33)
+2016-07-10 20:28:55 DEBUG JavaLoggerDemo:42 - This is a Debug
+2016-07-10 20:28:56 INFO  JavaLoggerDemo:43 - This is an Info
+2016-07-10 20:28:56 WARN  JavaLoggerDemo:44 - This is a Warn
+2016-07-10 20:28:56 ERROR JavaLoggerDemo:45 - This is an Error
+2016-07-10 20:28:56 FATAL JavaLoggerDemo:46 - This is a Fatal
+2016-07-10 20:28:56 ERROR JavaLoggerDemo:60 - Error
+java.lang.ArithmeticException: / by zero
+	at javaloggerdemo.JavaLoggerDemo.logException(JavaLoggerDemo.java:58)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:33)
+2016-07-10 20:28:56 ERROR JavaLoggerDemo:76 - File Not Found
+java.io.FileNotFoundException: input1.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at javaloggerdemo.JavaLoggerDemo.logFileError(JavaLoggerDemo.java:67)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:35)
+2016-07-10 20:28:59 DEBUG JavaLoggerDemo:42 - This is a Debug
+2016-07-10 20:29:00 INFO  JavaLoggerDemo:43 - This is an Info
+2016-07-10 20:29:00 WARN  JavaLoggerDemo:44 - This is a Warn
+2016-07-10 20:29:00 ERROR JavaLoggerDemo:45 - This is an Error
+2016-07-10 20:29:00 FATAL JavaLoggerDemo:46 - This is a Fatal
+2016-07-10 20:29:00 ERROR JavaLoggerDemo:60 - Error
+java.lang.ArithmeticException: / by zero
+	at javaloggerdemo.JavaLoggerDemo.logException(JavaLoggerDemo.java:58)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:33)
+2016-07-10 20:29:00 ERROR JavaLoggerDemo:76 - File Not Found
+java.io.FileNotFoundException: input1.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at javaloggerdemo.JavaLoggerDemo.logFileError(JavaLoggerDemo.java:67)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:35)
+2016-07-10 20:29:00 DEBUG JavaLoggerDemo:84 - Debug
+2016-07-10 20:29:00 INFO  JavaLoggerDemo:85 - Info
+2016-07-10 20:29:51 DEBUG JavaLoggerDemo:42 - This is a Debug
+2016-07-10 20:29:52 INFO  JavaLoggerDemo:43 - This is an Info
+2016-07-10 20:29:52 WARN  JavaLoggerDemo:44 - This is a Warn
+2016-07-10 20:29:52 ERROR JavaLoggerDemo:45 - This is an Error
+2016-07-10 20:29:52 FATAL JavaLoggerDemo:46 - This is a Fatal
+2016-07-10 20:29:52 ERROR JavaLoggerDemo:60 - Error
+java.lang.ArithmeticException: / by zero
+	at javaloggerdemo.JavaLoggerDemo.logException(JavaLoggerDemo.java:58)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:33)
+2016-07-10 20:29:52 ERROR JavaLoggerDemo:76 - File Not Found
+java.io.FileNotFoundException: input1.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at javaloggerdemo.JavaLoggerDemo.logFileError(JavaLoggerDemo.java:67)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:35)
+2016-07-10 20:29:52 DEBUG JavaLoggerDemo:84 - Debug
+2016-07-10 20:29:52 INFO  JavaLoggerDemo:85 - Info
+2016-07-10 20:34:02 DEBUG JavaLoggerDemo:42 - This is a Debug
+2016-07-10 20:34:02 INFO  JavaLoggerDemo:43 - This is an Info
+2016-07-10 20:34:02 WARN  JavaLoggerDemo:44 - This is a Warn
+2016-07-10 20:34:02 ERROR JavaLoggerDemo:45 - This is an Error
+2016-07-10 20:34:02 FATAL JavaLoggerDemo:46 - This is a Fatal
+2016-07-10 20:34:02 ERROR JavaLoggerDemo:60 - Error
+java.lang.ArithmeticException: / by zero
+	at javaloggerdemo.JavaLoggerDemo.logException(JavaLoggerDemo.java:58)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:33)
+2016-07-10 20:34:02 ERROR JavaLoggerDemo:76 - File Not Found
+java.io.FileNotFoundException: input1.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at javaloggerdemo.JavaLoggerDemo.logFileError(JavaLoggerDemo.java:67)
+	at javaloggerdemo.JavaLoggerDemo.main(JavaLoggerDemo.java:35)
+2016-07-10 20:34:02 DEBUG JavaLoggerDemo:84 - Debug
+2016-07-10 20:34:02 INFO  JavaLoggerDemo:85 - Info
